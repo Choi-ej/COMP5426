@@ -1,0 +1,27 @@
+for size in 256 512 1024 2048 4096 8192
+do
+  for threads in 1 2 4 8 16 32 64
+  do
+    for type in float double
+    do
+      echo "SIZE=$size THREADS=$threads TYPE=$type" >> task1_results.txt
+      ./task1 $size $size $size $size $type $threads >> task1_results.txt
+      echo "-----------------------------" >> task1_results.txt
+    done
+  done
+done
+
+
+
+for size in 256 512 1024 2048 4096 8192
+do
+  for threads in 1 2 4 8 16 32 64
+  do
+    for type in float double
+    do
+      echo "SIZE=$size THREADS=$threads TYPE=$type" >> task2_results.txt
+      ./task2 $size $size $size $size $type $threads >> task2_results.txt
+      echo "-----------------------------" >> task2_results.txt
+    done
+  done
+done

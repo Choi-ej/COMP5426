@@ -1,0 +1,316 @@
+SIZE=256 THREADS=1 TYPE=float
+Verification: SUCCESS
+Parallel Time: 0.068223
+Sequential Time: 0.070164
+Speedup: 1.028450
+Max RAM: 2.69 MB
+-----------------------------
+SIZE=256 THREADS=1 TYPE=double
+Verification: SUCCESS
+Parallel Time: 0.067020
+Sequential Time: 0.067181
+Speedup: 1.002401
+Max RAM: 4.19 MB
+-----------------------------
+SIZE=256 THREADS=2 TYPE=float
+Verification: SUCCESS
+Parallel Time: 0.034794
+Sequential Time: 0.077822
+Speedup: 2.236650
+Max RAM: 2.69 MB
+-----------------------------
+SIZE=256 THREADS=2 TYPE=double
+Verification: SUCCESS
+Parallel Time: 0.042669
+Sequential Time: 0.065405
+Speedup: 1.532847
+Max RAM: 4.19 MB
+-----------------------------
+SIZE=256 THREADS=4 TYPE=float
+Verification: SUCCESS
+Parallel Time: 0.019163
+Sequential Time: 0.063582
+Speedup: 3.317972
+Max RAM: 2.69 MB
+-----------------------------
+SIZE=256 THREADS=4 TYPE=double
+Verification: SUCCESS
+Parallel Time: 0.022695
+Sequential Time: 0.071109
+Speedup: 3.133239
+Max RAM: 4.19 MB
+-----------------------------
+SIZE=256 THREADS=8 TYPE=float
+Verification: SUCCESS
+Parallel Time: 0.021902
+Sequential Time: 0.064950
+Speedup: 2.965471
+Max RAM: 2.69 MB
+-----------------------------
+SIZE=256 THREADS=8 TYPE=double
+Verification: SUCCESS
+Parallel Time: 0.029071
+Sequential Time: 0.076491
+Speedup: 2.631174
+Max RAM: 4.19 MB
+-----------------------------
+SIZE=256 THREADS=16 TYPE=float
+Verification: SUCCESS
+Parallel Time: 0.017850
+Sequential Time: 0.070797
+Speedup: 3.966181
+Max RAM: 2.70 MB
+-----------------------------
+SIZE=256 THREADS=16 TYPE=double
+Verification: SUCCESS
+Parallel Time: 0.017623
+Sequential Time: 0.065345
+Speedup: 3.707952
+Max RAM: 4.19 MB
+-----------------------------
+SIZE=256 THREADS=32 TYPE=float
+Verification: SUCCESS
+Parallel Time: 0.015359
+Sequential Time: 0.063490
+Speedup: 4.133683
+Max RAM: 2.97 MB
+-----------------------------
+SIZE=256 THREADS=32 TYPE=double
+Verification: SUCCESS
+Parallel Time: 0.016537
+Sequential Time: 0.066499
+Speedup: 4.021179
+Max RAM: 4.22 MB
+-----------------------------
+SIZE=256 THREADS=64 TYPE=float
+Verification: SUCCESS
+Parallel Time: 0.016114
+Sequential Time: 0.066628
+Speedup: 4.134789
+Max RAM: 3.47 MB
+-----------------------------
+SIZE=256 THREADS=64 TYPE=double
+Verification: SUCCESS
+Parallel Time: 0.016248
+Sequential Time: 0.065076
+Speedup: 4.005180
+Max RAM: 4.72 MB
+-----------------------------
+SIZE=512 THREADS=1 TYPE=float
+Verification: SUCCESS
+Parallel Time: 0.520426
+Sequential Time: 0.510875
+Speedup: 0.981648
+Max RAM: 7.20 MB
+-----------------------------
+SIZE=512 THREADS=1 TYPE=double
+Verification: SUCCESS
+Parallel Time: 0.765693
+Sequential Time: 0.703257
+Speedup: 0.918458
+Max RAM: 12.84 MB
+-----------------------------
+SIZE=512 THREADS=2 TYPE=float
+Verification: SUCCESS
+Parallel Time: 0.270614
+Sequential Time: 0.523195
+Speedup: 1.933363
+Max RAM: 7.20 MB
+-----------------------------
+SIZE=512 THREADS=2 TYPE=double
+Verification: SUCCESS
+Parallel Time: 0.271283
+Sequential Time: 0.526736
+Speedup: 1.941646
+Max RAM: 13.22 MB
+-----------------------------
+SIZE=512 THREADS=4 TYPE=float
+Verification: SUCCESS
+Parallel Time: 0.149626
+Sequential Time: 0.631192
+Speedup: 4.218464
+Max RAM: 7.20 MB
+-----------------------------
+SIZE=512 THREADS=4 TYPE=double
+Verification: SUCCESS
+Parallel Time: 0.136928
+Sequential Time: 0.528335
+Speedup: 3.858484
+Max RAM: 13.22 MB
+-----------------------------
+SIZE=512 THREADS=8 TYPE=float
+Verification: SUCCESS
+Parallel Time: 0.126318
+Sequential Time: 0.504757
+Speedup: 3.995923
+Max RAM: 7.20 MB
+-----------------------------
+SIZE=512 THREADS=8 TYPE=double
+Verification: SUCCESS
+Parallel Time: 0.130660
+Sequential Time: 0.509889
+Speedup: 3.902410
+Max RAM: 13.22 MB
+-----------------------------
+SIZE=512 THREADS=16 TYPE=float
+Verification: SUCCESS
+Parallel Time: 0.118236
+Sequential Time: 0.507241
+Speedup: 4.290070
+Max RAM: 7.20 MB
+-----------------------------
+SIZE=512 THREADS=16 TYPE=double
+Verification: SUCCESS
+Parallel Time: 0.117193
+Sequential Time: 0.721185
+Speedup: 6.153826
+Max RAM: 13.22 MB
+-----------------------------
+SIZE=512 THREADS=32 TYPE=float
+Verification: SUCCESS
+Parallel Time: 0.113713
+Sequential Time: 0.504440
+Speedup: 4.436078
+Max RAM: 7.20 MB
+-----------------------------
+SIZE=512 THREADS=32 TYPE=double
+Verification: SUCCESS
+Parallel Time: 0.114699
+Sequential Time: 0.514970
+Speedup: 4.489747
+Max RAM: 13.22 MB
+-----------------------------
+SIZE=512 THREADS=64 TYPE=float
+Verification: SUCCESS
+Parallel Time: 0.112101
+Sequential Time: 0.514031
+Speedup: 4.585424
+Max RAM: 7.25 MB
+-----------------------------
+SIZE=512 THREADS=64 TYPE=double
+Verification: SUCCESS
+Parallel Time: 0.113698
+Sequential Time: 0.509482
+Speedup: 4.481012
+Max RAM: 13.22 MB
+-----------------------------
+SIZE=1024 THREADS=1 TYPE=float
+Verification: SUCCESS
+Parallel Time: 4.156593
+Sequential Time: 4.041864
+Speedup: 0.972398
+Max RAM: 24.88 MB
+-----------------------------
+SIZE=1024 THREADS=1 TYPE=double
+Verification: SUCCESS
+Parallel Time: 4.155287
+Sequential Time: 4.066336
+Speedup: 0.978593
+Max RAM: 49.28 MB
+-----------------------------
+SIZE=1024 THREADS=2 TYPE=float
+Verification: SUCCESS
+Parallel Time: 2.040508
+Sequential Time: 4.037721
+Speedup: 1.978782
+Max RAM: 25.28 MB
+-----------------------------
+SIZE=1024 THREADS=2 TYPE=double
+Verification: SUCCESS
+Parallel Time: 2.073182
+Sequential Time: 4.085580
+Speedup: 1.970681
+Max RAM: 49.28 MB
+-----------------------------
+SIZE=1024 THREADS=4 TYPE=float
+Verification: SUCCESS
+Parallel Time: 1.095867
+Sequential Time: 4.100964
+Speedup: 3.742210
+Max RAM: 25.28 MB
+-----------------------------
+SIZE=1024 THREADS=4 TYPE=double
+Verification: SUCCESS
+Parallel Time: 1.159289
+Sequential Time: 4.075602
+Speedup: 3.515605
+Max RAM: 49.28 MB
+-----------------------------
+SIZE=1024 THREADS=8 TYPE=float
+Verification: SUCCESS
+Parallel Time: 0.917837
+Sequential Time: 4.015298
+Speedup: 4.374739
+Max RAM: 25.28 MB
+-----------------------------
+SIZE=1024 THREADS=8 TYPE=double
+Verification: SUCCESS
+Parallel Time: 0.989994
+Sequential Time: 4.292305
+Speedup: 4.335688
+Max RAM: 49.28 MB
+-----------------------------
+SIZE=1024 THREADS=16 TYPE=float
+Verification: SUCCESS
+Parallel Time: 0.993216
+Sequential Time: 4.290149
+Speedup: 4.319453
+Max RAM: 25.28 MB
+-----------------------------
+SIZE=1024 THREADS=16 TYPE=double
+Verification: SUCCESS
+Parallel Time: 0.968695
+Sequential Time: 4.095053
+Speedup: 4.227391
+Max RAM: 49.28 MB
+-----------------------------
+SIZE=1024 THREADS=32 TYPE=float
+Verification: SUCCESS
+Parallel Time: 0.958705
+Sequential Time: 4.036517
+Speedup: 4.210385
+Max RAM: 25.28 MB
+-----------------------------
+SIZE=1024 THREADS=32 TYPE=double
+Verification: SUCCESS
+Parallel Time: 0.980968
+Sequential Time: 4.138848
+Speedup: 4.219147
+Max RAM: 49.28 MB
+-----------------------------
+SIZE=1024 THREADS=64 TYPE=float
+Verification: SUCCESS
+Parallel Time: 0.948655
+Sequential Time: 4.049657
+Speedup: 4.268841
+Max RAM: 25.28 MB
+-----------------------------
+SIZE=1024 THREADS=64 TYPE=double
+Verification: SUCCESS
+Parallel Time: 1.023850
+Sequential Time: 4.101195
+Speedup: 4.005659
+Max RAM: 49.28 MB
+-----------------------------
+SIZE=2048 THREADS=1 TYPE=float
+Verification: SUCCESS
+Parallel Time: 32.268263
+Sequential Time: 32.724380
+Speedup: 1.014135
+Max RAM: 81.30 MB
+-----------------------------
+SIZE=2048 THREADS=1 TYPE=double
+Verification: SUCCESS
+Parallel Time: 32.898346
+Sequential Time: 37.154982
+Speedup: 1.129388
+Max RAM: 161.30 MB
+-----------------------------
+SIZE=2048 THREADS=2 TYPE=float
+Verification: SUCCESS
+Parallel Time: 17.183586
+Sequential Time: 32.812927
+Speedup: 1.909551
+Max RAM: 86.25 MB
+-----------------------------
+SIZE=2048 THREADS=2 TYPE=double
